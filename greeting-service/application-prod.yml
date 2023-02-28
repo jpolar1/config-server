@@ -11,4 +11,4 @@ management:
         - '*'   
 greeting-service:
   greeting: "Environment"
-  default-value: "Production..!"
+  default-value: "Production and QA..!"
